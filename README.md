@@ -10,7 +10,8 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
 ## Tools and Technologies Used 
 - **Figma**: For UI/UX design and prototyping.
 - **Python**: Core programming language for application development.
-- **MySQL**: Relational database management system for data storage.
+- 
+-
 
 ## Key Features
 - **Progress Tracking**: Statistics and achievements to gamify the recycling process.
