@@ -1,4 +1,4 @@
-# Reglam (***Progress: Finishing ui designs***)
+# Reglam  
 
 **Reglam** is a application designed specifically for beauty enthusiasts who want to responsibly dispose of their empty makeup and skincare containers. This project emphasizes the importance of sustainable practices in the beauty industry by providing users with easy-to-use recycling guidance and gamification elements to encourage environmental responsibility.  
 
@@ -9,7 +9,7 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
 - **User Progress Tracking**: Monitor environmental impact through gamification and achievements.
 - **Educational Content**: Provide tips and tutorials for sustainable beauty practices.
 
-## Tools and Technologies Used 
+## Tools and Technologies
 
 - **Figma**: For UI/UX design and prototyping.  
 - **PyQt5**: For building the graphical user interface (GUI) of the application.  
@@ -21,7 +21,16 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
 ## Key Features
 - **Progress Tracking**: Statistics and achievements to gamify the recycling process.
 - **Brand Database**: Comprehensive information about beauty brands and their sustainability practices.
-- **Educational Resources**: Tips for proper container preparation and upcycling ideas.
+- **Educational Resources**: Tips for proper container preparation and upcycling ideas.  
+
+ ## Progress
+- **Concept** - ✓  
+- **ERD** - ✓
+- **Front-end**
+  ***UI design*** - on progress  
+  ***GUI*** -
+- **Back-end** -
+- **Database** - 
 
 ## Expected Outcomes
 This project delivers a comprehensive mobile solution that demonstrates the significance of technology in promoting environmental sustainability within the beauty industry. By focusing on user engagement through gamification and education, REGLAM serves as a valuable tool for beauty enthusiasts to reduce their environmental impact while maintaining their beauty routines. The application showcases modern mobile development practices, database design principles, and the integration of location-based services for real-world problem-solving.
