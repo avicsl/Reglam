@@ -2,6 +2,8 @@ ERD
 
 1. User
 - user_id (Primary Key)
+- firstname
+- lastname
 - username
 - email
 - password
