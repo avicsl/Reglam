@@ -1,0 +1,78 @@
+## ERD
+
+1. User
+- user_id (Primary Key)
+- username
+- email
+- password
+- join_date
+- profile_image
+
+2. RecycledItem
+- item_id (Primary Key)
+- user_id (Foreign Key → User)
+- product_type (e.g., bottle, jar)
+- recycle_date
+- recycling_center_id (Foreign Key → RecyclingCenter)
+- image_path
+
+3. Progress
+- progress_id (Primary Key)
+- user_id (Foreign Key → User)
+- total_items_recycled
+- level
+- points
+- last_updated
+
+4. Achievement
+- achievement_id (Primary Key)
+- user_id (Foreign Key → User)
+- title
+- description
+- date_earned
+
+5. RecyclingCenter
+- center_id (Primary Key)
+- name
+- address
+
+6. EducationalContent
+- content_id (Primary Key)
+- title
+- content_type (e.g., tip, tutorial)
+- content_text
+- video_link (nullable)
+- date_published
+
+7. UserContentInteraction
+- interaction_id (Primary Key)
+- user_id (Foreign Key → User)
+- content_id (Foreign Key → EducationalContent)
+- viewed_on
+- is_liked (boolean)
+
+
+Compilation of Relationships
+
+User —< RecycledItem
+- One user can recycle many items.
+- Each recycled item belongs to one user.
+
+User —< Progress
+- One user has one or more progress records (could be updated over time).
+- Each progress record is linked to one user.
+
+User —< Achievement
+- One user can earn many achievements.
+- Each achievement is tied to one user.
+
+User —< UserContentInteraction >— EducationalContent
+- Many-to-many relationship.
+- A user can interact with many educational contents, and each content can be viewed by many users.
+
+RecycledItem —> RecyclingCenter
+- Each recycled item is submitted to one recycling center.
+
+EducationalContent —< UserContentInteraction
+- Content can be liked or viewed multiple times by different users.
+- Let me know if you want this in a PDF or image diagram next!
