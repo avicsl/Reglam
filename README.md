@@ -1,6 +1,7 @@
 # Reglam
 
-**Reglam** is a application designed specifically for beauty enthusiasts who want to responsibly dispose of their empty makeup and skincare containers. This project emphasizes the importance of sustainable practices in the beauty industry by providing users with easy-to-use recycling guidance and gamification elements to encourage environmental responsibility.
+**Reglam** is a application designed specifically for beauty enthusiasts who want to responsibly dispose of their empty makeup and skincare containers. This project emphasizes the importance of sustainable practices in the beauty industry by providing users with easy-to-use recycling guidance and gamification elements to encourage environmental responsibility.  
+***Progress: Finishing ui designs***  
 
 ## Project Overview
 Rather than focusing solely on beauty consumption, REGLAM highlights sustainability—the recycling process that helps reduce beauty industry waste. Utilizing a comprehensive database system as its core, the main objective of this project is to design and implement a well-structured mobile application capable of managing:
