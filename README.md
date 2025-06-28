@@ -26,7 +26,7 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
  ## Progress
 - **Concept** - ✓  
 - **ERD** - ✓
-- **Front-end**
+- **Front-end**  
   ***UI design*** - on progress  
   ***GUI*** -
 - **Back-end** -
