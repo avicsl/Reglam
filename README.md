@@ -24,13 +24,13 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
 - **Educational Resources**: Tips for proper container preparation and upcycling ideas.  
 
  ## Progress
-- **Concept** - ✓  
-- **ERD** - ✓
+- **Concept**: ✓  
+- **ERD**:  ✓
 - **Front-end**  
-  ***UI design*** - on progress  
-  ***GUI*** -
-- **Back-end** -
-- **Database** - 
+  ***UI design***: on progress  
+  ***GUI***:
+- **Back-end**:
+- **Database**:
 
 ## Expected Outcomes
 This project delivers a comprehensive mobile solution that demonstrates the significance of technology in promoting environmental sustainability within the beauty industry. By focusing on user engagement through gamification and education, REGLAM serves as a valuable tool for beauty enthusiasts to reduce their environmental impact while maintaining their beauty routines. The application showcases modern mobile development practices, database design principles, and the integration of location-based services for real-world problem-solving.
