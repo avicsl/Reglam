@@ -11,11 +11,11 @@ Rather than focusing solely on beauty consumption, REGLAM highlights sustainabil
 ## Tools and Technologies Used 
 
 - **Figma**: For UI/UX design and prototyping.  
-- **Python**: Core programming language for application development.  
 - **PyQt5**: For building the graphical user interface (GUI) of the application.  
 - **Qt Designer**: Used to visually design the GUI layout, integrated with PyQt.  
 - **MySQL**: Relational database used for storing and managing application data.  
-- **Visual Studio Code (VS Code)**: Code editor used for writing and managing the project source code.  
+- **Visual Studio Code (VS Code)**: Code editor used for writing and managing the project source code.
+- **Python**: Core programming language for application development.  
 
 ## Key Features
 - **Progress Tracking**: Statistics and achievements to gamify the recycling process.
